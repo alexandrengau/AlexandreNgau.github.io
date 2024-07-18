@@ -30,6 +30,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+markdown: kramdown
+kramdown:
+  input: GFM
 show_downloads: true
 github.owner_url: https://github.com/alexandrengau
 
